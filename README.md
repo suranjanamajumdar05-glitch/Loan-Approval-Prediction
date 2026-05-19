@@ -41,3 +41,11 @@ An ensemble learning method combining multiple decision trees.
 5. Seaborn
 6. Scikit-learn
 
+# Confusion Matrix
+<img width="539" height="453" alt="image" src="https://github.com/user-attachments/assets/1c577b15-2a3d-4aca-8034-4af4136876fa" />
+
+# Accuracy Comparison Graph
+<img width="695" height="468" alt="image" src="https://github.com/user-attachments/assets/c5081b66-677b-4e21-ba83-59fe470d8f47" />
+
+# Conclusion
+This project successfully predicts loan approval status using supervised machine learning algorithms. Different classification models were compared, and Random Forest along with Decision Tree achieved the highest accuracy on the dataset.
