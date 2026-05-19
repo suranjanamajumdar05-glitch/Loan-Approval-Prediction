@@ -26,9 +26,18 @@ The following analyses were performed:
 4. Accuracy comparison graph
 
 # Models Used
-## 1. Logistic Regression
+1. Logistic Regression
 A linear classification algorithm used as the baseline model.
-## 2. Decision Tree Classifier
+2. Decision Tree Classifier
 A tree-based classification algorithm for decision making.
-## 3. Random Forest Classifier
+3. Random Forest Classifier
 An ensemble learning method combining multiple decision trees.
+
+# Technologies Used
+1. Python
+2. Pandas
+3. NumPy
+4. Matplotlib
+5. Seaborn
+6. Scikit-learn
+
